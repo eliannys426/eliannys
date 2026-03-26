@@ -1,6 +1,5 @@
 # eliannys
-proyecto
-< html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -26,12 +25,12 @@ proyecto
         <h2>🏝️ Paisajes Naturales</h2>
         <div class="grid">
             <div class="card">
-                <img src="https://www.iagua.es/blogs/magic-places/salto-angel-cascada-mas-alta-mundo"
+                <img src="https://upload.wikimedia.org" alt="Salto Angel">
                 <h3>Salto Ángel</h3>
                 <p>La caída de agua más alta del mundo en el corazón de Canaima.</p>
             </div>
             <div class="card">
-                <img src="https://www.tiktok.com/@minimalfurgo/video/7507740945610296582">
+                <img src="https://upload.wikimedia.org" alt="Los Roques">
                 <h3>Los Roques</h3>
                 <p>Archipiélago paradisíaco de aguas cristalinas y arena blanca.</p>
             </div>
