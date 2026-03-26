@@ -26,12 +26,12 @@ proyecto
         <h2>🏝️ Paisajes Naturales</h2>
         <div class="grid">
             <div class="card">
-                <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bi8nYM698T9O_pmP62RO4XSLH2CRqW9dPw&s>
+                <img src="https://www.iagua.es/blogs/magic-places/salto-angel-cascada-mas-alta-mundo"
                 <h3>Salto Ángel</h3>
                 <p>La caída de agua más alta del mundo en el corazón de Canaima.</p>
             </div>
             <div class="card">
-                <img src="https://upload.wikimedia.org" alt="Los Roques">
+                <img src="https://www.tiktok.com/@minimalfurgo/video/7507740945610296582">
                 <h3>Los Roques</h3>
                 <p>Archipiélago paradisíaco de aguas cristalinas y arena blanca.</p>
             </div>
