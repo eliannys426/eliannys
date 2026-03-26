@@ -1,5 +1,4 @@
 # eliannys
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -30,7 +29,7 @@
                 <p>La caída de agua más alta del mundo en el corazón de Canaima.</p>
             </div>
             <div class="card">
-                <img src="https://upload.wikimedia.org" alt="Los Roques">
+                <https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4lTYih_HxjTCltp2syY-NCeMb7ZCJIRjjQ&s">
                 <h3>Los Roques</h3>
                 <p>Archipiélago paradisíaco de aguas cristalinas y arena blanca.</p>
             </div>
