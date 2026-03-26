@@ -1,6 +1,6 @@
 # eliannys
 proyecto
-<!DOCTYPE html>
+< html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -26,7 +26,7 @@ proyecto
         <h2>🏝️ Paisajes Naturales</h2>
         <div class="grid">
             <div class="card">
-                <img src="https://upload.wikimedia.org" alt="Salto Angel">
+                <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bi8nYM698T9O_pmP62RO4XSLH2CRqW9dPw&s>
                 <h3>Salto Ángel</h3>
                 <p>La caída de agua más alta del mundo en el corazón de Canaima.</p>
             </div>
